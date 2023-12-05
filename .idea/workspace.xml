@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1eab3ecc-cf42-4acf-8659-d16cc8877c78" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Overview.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Overview.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-ray/00-Advanced-Ray-Overview.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/advanced-ray/00-Advanced-Ray-Overview.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-ray/01-Ray-Tasks-Revisited.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/advanced-ray/01-Ray-Tasks-Revisited.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-ray/02-Ray-Actors-Revisited.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/advanced-ray/02-Ray-Actors-Revisited.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-ray/03-Ray-Internals.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/advanced-ray/03-Ray-Internals.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-cluster-launcher/00-Ray-Cluster-Launcher-Overview.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-crash-course/00-Ray-Crash-Course-Overview.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ray-crash-course/00-Ray-Crash-Course-Overview.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-crash-course/01-Ray-Tasks.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ray-crash-course/01-Ray-Tasks.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-crash-course/02-Ray-Actors.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ray-crash-course/02-Ray-Actors.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-crash-course/03-Ray-Objects.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ray-crash-course/03-Ray-Objects.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-crash-course/04-Exploring-Ray-API-Calls.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ray-crash-course/04-Exploring-Ray-API-Calls.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-crash-course/05-Running-Ray-Clusters.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ray-crash-course/05-Running-Ray-Clusters.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-crash-course/06-Ray-multi-pool.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ray-crash-course/06-Ray-multi-pool.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ray-rllib/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/00_anyscale_acm_recsys_tutorial_table_of_contents.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/01_intro_gym_and_rllib_optional.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/02_anyscale_acm_recsys_tutorial.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/images/DQN_tune_lr_summary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/images/bandit_vs_slateq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/images/bellman_equation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/images/document_model.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/images/env_key_concept1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/images/env_key_concept2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/images/frozen_lake_v1_tensorboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/images/gamma_0_vs_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/images/long_term_satisfaction_env.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/images/offline_rl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/images/pytorch-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/images/recsim_environment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/images/recsys_overview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/images/rllib-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/images/tensorflow-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/images/tf_dqn_algo_dnn_architecture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/images/tf_ppo_algo_dnn_architecture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/images/tutorial_overview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/images/user_choice_model.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/images/user_model.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/rllib_recsim/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/rllib_recsim/rllib_recsim.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/rllib_recsim/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/rllib_recsim/wrappers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/saved_runs/bandits/checkpoint_000666/.is_checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/saved_runs/bandits/checkpoint_000666/.tune_metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/saved_runs/bandits/checkpoint_000666/checkpoint-666" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/saved_runs/bandits/params.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/saved_runs/bandits/progress.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/saved_runs/dqn/checkpoint_000020/checkpoint-20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/saved_runs/dqn/progress.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/saved_runs/dqn_offline/random_data/progress.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/slides/rllib_acm_recsys_2022_slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/solutions/02_anyscale_acm_recsys_tutorial_sol.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/tutorial_scripts/generate_offline_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/tutorial_scripts/run_offline_rl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/acm_recsys_tutorial_2022/tutorial_scripts/run_online_rl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/anyscale_recsys_tutorial.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/images/DQN_tune_lr_summary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/images/bandit_vs_slateq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/images/bellman_equation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/images/document_model.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/images/env_key_concept1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/images/env_key_concept2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/images/frozen_lake_v1_tensorboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/images/gamma_0_vs_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/images/long_term_satisfaction_env.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/images/offline_rl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/images/pytorch-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/images/recsim_environment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/images/recsys_overview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/images/rllib-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/images/tensorflow-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/images/tf_dqn_algo_dnn_architecture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/images/tf_ppo_algo_dnn_architecture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/images/tutorial_overview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/images/user_choice_model.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/images/user_model.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/rllib_recsim/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/rllib_recsim/rllib_recsim.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/rllib_recsim/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/rllib_recsim/wrappers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/saved_runs/offline_bandits/checkpoint-1000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/saved_runs/offline_bandits/progress.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/saved_runs/offline_rl/checkpoint-1000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/saved_runs/offline_rl/progress.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/saved_runs/online_rl/checkpoint_000020/checkpoint-20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/saved_runs/online_rl/progress.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-rllib/odsc_west_workshop_2022/slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-serve/00-Ray-Serve-Overview.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-serve/01-Model-Serving-Challenges.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-serve/02-Ray-Serve-Create-and-Access-Deployments.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-serve/03-Ray-Serve-Example.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-serve/04-Mode-Composition.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-serve/05-Ray-Serve-SentimentAnalysis.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-serve/06-Ray-Serve-and-MLflow.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-serve/07-Ray-Serve-and-FastAPI.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-serve/10-Ray-Serve-End-to-End.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-serve/11-Ray-Serve-Tune-and-XGBoost-Fraud.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-serve/e2e/deploy-cloud-run/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-serve/e2e/deploy-cloud-run/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-serve/e2e/deploy-cloud-run/deploy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-serve/e2e/deploy-cloud-run/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-serve/e2e/deploy-cloud-run/test-query.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-serve/e2e/model-composition.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-serve/e2e/serve-features.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-serve/e2e/serve-position.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-serve/e2e/tutorial.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-serve/pima-indians-diabetes.data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-serve/send_request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-serve/xgboost_fastapi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-train/00-Ray-Train-Overview.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ray-train/00-Ray-Train-Overview.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-train/01-Ray-Train-Quickstart.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ray-train/01-Ray-Train-Quickstart.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-train/02-Ray-Train-Quickstart-Distributed.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ray-train/02-Ray-Train-Quickstart-Distributed.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-train/03-Ray-Train-with-PyTorch.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ray-train/03-Ray-Train-with-PyTorch.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-train/04-Ray-Train-with-PyTorch-FashionMNIST.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ray-train/04-Ray-Train-with-PyTorch-FashionMNIST.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-tune/00-Ray-Tune-Overview.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ray-tune/00-Ray-Tune-Overview.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-tune/01-Understanding-Hyperparameter-Tuning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ray-tune/01-Understanding-Hyperparameter-Tuning.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-tune/02-Ray-Tune-Warmup.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ray-tune/02-Ray-Tune-Warmup.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-tune/03-Ray-Tune-with-Sklearn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ray-tune/03-Ray-Tune-with-Sklearn.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-tune/04-Ray-Tune-with-MNIST.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ray-tune/04-Ray-Tune-with-MNIST.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-tune/05-Search-Algos-and-Schedulers.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ray-tune/05-Search-Algos-and-Schedulers.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-tune/06-Ray-Tune-and-XGBoost.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ray-tune/06-Ray-Tune-and-XGBoost.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-tune/07-Ray-Tune-with-TuneSearchCV.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ray-tune/07-Ray-Tune-with-TuneSearchCV.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray-tune/References-Hyperparameter-Tuning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ray-tune/References-Hyperparameter-Tuning.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reference/Troubleshooting-Tips-Tricks.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/reference/Troubleshooting-Tips-Tricks.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/TODO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/docker/Dockerfile-academy-all" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/docker/Dockerfile-academy-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/environment-docker.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/environment.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/00-Ray-RLlib-Overview.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/01-Introduction-to-Reinforcement-Learning.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/02-Introduction-to-RLlib.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/03-Understanding-Hyperparameter-Tuning.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/References-Reinforcement-Learning.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/explore-rllib/00-Explore-RLlib-Overview.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/explore-rllib/01-Application-Cart-Pole.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/explore-rllib/02-Bipedal-Walker.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/explore-rllib/03-Custom-Environments-Reward-Shaping.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/explore-rllib/bipedal-walker-checkpoint/.is_checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/explore-rllib/bipedal-walker-checkpoint/checkpoint-100" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/explore-rllib/bipedal-walker-checkpoint/checkpoint-100.tune_metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/explore-rllib/chain_env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/explore-rllib/extras/Extra-Application-Frozen-Lake.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/explore-rllib/extras/Extra-Application-Mountain-Car.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/explore-rllib/extras/Extra-Application-Taxi.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/explore-rllib/extras/mountain-car-checkpoint/.is_checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/explore-rllib/extras/mountain-car-checkpoint/checkpoint-20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/explore-rllib/extras/mountain-car-checkpoint/checkpoint-20.tune_metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/explore-rllib/solutions/Explore-RLlib-Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/explore-rllib/test_exercises.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/multi-armed-bandits/00-Multi-Armed-Bandits-Overview.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/multi-armed-bandits/01-Introduction-to-Multi-Armed-Bandits.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/multi-armed-bandits/02-Exploration-vs-Exploitation-Strategies.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/multi-armed-bandits/03-Simple-Multi-Armed-Bandit.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/multi-armed-bandits/04-Linear-Upper-Confidence-Bound.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/multi-armed-bandits/05-Linear-Thompson-Sampling.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/multi-armed-bandits/06-Market-Example.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/multi-armed-bandits/market.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/multi-armed-bandits/market_bandit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/multi-armed-bandits/solutions/Multi-Armed-Bandits-Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/recsys/00-Recsys-Overview.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/recsys/01-Recsys.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/recsys/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/recsys/jester-data-1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/recsys/jester-data-2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/recsys/jester-data-3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/recsys/recsys.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/recsys/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/rollout.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/ray-rllib/solutions/Ray-RLlib-Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/requirements.extra" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retired/requirements.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Z8efjOUVOux4W6i96e2NsW2FIz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/stephen.offer/Desktop/ray_on_db_academy"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1eab3ecc-cf42-4acf-8659-d16cc8877c78" name="Changes" comment="" />
+      <created>1701808238999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701808238999</updated>
+    </task>
+    <servers />
+  </component>
+</project>

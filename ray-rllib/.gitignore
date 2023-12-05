@@ -132,3 +132,5 @@ dmypy.json
 scripts/data
 acm_recsys22_tutorial_data
 results*
+
+*.idea/
