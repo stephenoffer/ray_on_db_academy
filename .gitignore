@@ -20,3 +20,5 @@ data
 ray-rllib/explore-rllib/extras/tmp/
 stage
 ray-rllib/recsys/tmp/
+.idea/
+.idea/*
