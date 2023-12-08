@@ -1,5 +1,31 @@
 # Ray on Databricks Academy - Tutorials on Ray and Ray-based Libraries
 
+*This material is taken from the Anyscale Academy and has been modified to run on Databricks.*
+
+## Getting Help
+
+For Ray related technical questions, reach out to #help-ray on Slack
+
+For account related questions, reach out to the #ray-gtm team
+
+### Engineering
+- Nitin Wagh (nitin.wagh@databricks.com)
+- Mahesh Venkatachalam (mahesh.venkatachalam@databricks.com) 
+- Ben Wilson (benjamin.wilson@databricks.com)
+
+### Field Engineering
+- Stephen Offer  (stephen.offer@databricks.com)
+- Puneet Jain (puneet.jain@databricks.com) 
+
+## Getting Ray Set Up on a Databricks Cluster
+
+To get started with this course, please create a cluster with this configuration:
+
+- Ray on Databricks currently only supports Single-Access mode clusters
+- The init functions in this course are set to run with 2 worker nodes and 4 CPUs per node, so select a cluster with at least 2 workers and 4 CPUs available per node.
+- Ray will be included in the Databricks Machine Learning Runtime (MLR) in Q1 of 2024, but if not using the latest MLR, please install using the Libraries panel, selecting PyPI as the source and installing 'ray[all]'
+
+This cluster can be reused for all sections of this course.
 
 ## Which Tutorials Are Right for Me?
 
